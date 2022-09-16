@@ -18,6 +18,8 @@
         age: 43,
         powers: [1]
     };
+
     console.log(typeof myCustomVariable);
+    console.log( myCustomVariable );
     
 })();
