@@ -104,7 +104,6 @@
     "node_modules"
   ],
   "include": [
-    // "interfaces"
-    "app.ts"
+    "namespaces"
   ]
 }
